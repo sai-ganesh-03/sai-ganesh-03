@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sai Ganesh S
+[![](https://visitcount.itsvg.in/api?id=sai-ganesh-03&icon=0&color=0)](https://visitcount.itsvg.in)
 ### Change! Become New! <br> Worthy Of Standing Next To Geniuses
 
-[![](https://visitcount.itsvg.in/api?id=sai-ganesh-03&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 💫 About Me:
 - 🔭 I’m currently working on **[Django](https://github.com/django/django)**
 - 🌱 I’m currently learning **System Design**  
